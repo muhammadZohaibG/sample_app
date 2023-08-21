@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462552327688",
+    "project_id": "personalinformation-ca167",
+    "storage_bucket": "personalinformation-ca167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462552327688:android:1343ab1cc38705d24953bd",
+        "android_client_info": {
+          "package_name": "com.example.sample_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462552327688-qrfvvi0gllabv9op2928h30nhmbs8o2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHI4O0Ryk8R6-xxv7tohUoUUg6S9-r_lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462552327688-qrfvvi0gllabv9op2928h30nhmbs8o2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
